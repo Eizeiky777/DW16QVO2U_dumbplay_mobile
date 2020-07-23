@@ -7,8 +7,6 @@ Some samples from frontend layout: </br></br>
 [![5-Player.png](https://i.postimg.cc/wjMkSFTy/5-Player.png)](https://postimg.cc/21pvWQWr)
 
 <br><br>
-to check and start : <br>
-<b>first     :</b> import database sql from this link --> https://github.com/Eizeiky777/DW16QVO2U_dumbplay/blob/master/dumbsound.sql <br>
 
 <b>how to install ?</b>
 - install node js that recommended for user from https://nodejs.org/en/
